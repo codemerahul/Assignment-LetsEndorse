@@ -1,0 +1,15 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb+srv://rahul:sudo123@assigment-ncgxp.mongodb.net/test?retryWrites=true",
+        "JWT_SECRET": "SECRET#123",
+        "JWT_EXP": "10m"
+    },
+    
+    "production": {
+        "PORT": 80,
+        "MONGODB_URI": "mongodb+srv://rahul:sudo123@assigment-ncgxp.mongodb.net/test?retryWrites=true", 
+        "JWT_SECRET": "SECRET#123",
+        "JWT_EXP": "2m"
+    }
+}
