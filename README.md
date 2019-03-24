@@ -1,5 +1,5 @@
 
-##  Rahul Singh - Coding assigmnet LetsEndorse.
+##  Rahul Singh - Coding assigmnet.
 
  Note : The Node version required should be 8.9 or higher, together with NPM 5.5.1 or higher.
 
